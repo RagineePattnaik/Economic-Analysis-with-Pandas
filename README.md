@@ -1,7 +1,7 @@
 # Economic-Analysis-with-Pandas
 Introduction to Economic Data Analysis
 
-The video starts by explaining why economic data analysis is important and how data professionals use Python to extract insights.
+ Using the Fred api we pull up to date data and compare, analyze and explore.
 The dataset used consists of economic indicators like GDP, inflation rates, employment statistics, and financial metrics.
 Setting Up the Environment
 
